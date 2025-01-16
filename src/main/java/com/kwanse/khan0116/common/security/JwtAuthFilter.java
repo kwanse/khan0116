@@ -1,4 +1,4 @@
-package com.kwanse.khan0116.security;
+package com.kwanse.khan0116.common.security;
 
 import io.jsonwebtoken.JwtException;
 import jakarta.servlet.*;

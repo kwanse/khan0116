@@ -2,7 +2,6 @@ package com.kwanse.khan0116.member.application;
 
 import com.kwanse.khan0116.member.domain.Member;
 import com.kwanse.khan0116.member.domain.MemberRepository;
-import com.kwanse.khan0116.security.JwtUtil;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

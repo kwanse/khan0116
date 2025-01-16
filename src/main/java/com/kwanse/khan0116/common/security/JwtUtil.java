@@ -1,4 +1,4 @@
-package com.kwanse.khan0116.security;
+package com.kwanse.khan0116.common.security;
 
 import com.kwanse.khan0116.member.application.TokenPublisher;
 import com.kwanse.khan0116.member.domain.Role;
